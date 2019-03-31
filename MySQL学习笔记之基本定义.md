@@ -3,7 +3,7 @@
 标签（空格分隔）： MySQL 数据库
 
 ---
-[TOC]
+
 
 
 ----------
@@ -33,7 +33,8 @@ RDBMS即关系数据库管理系统（Relational Database Management System）�
 > 
 > 5、若干的表单组成database
 
-## RDBMS术语##
+RDBMS术语
+------
 
  - **数据库**：数据库是一些关联表的集合。
  
